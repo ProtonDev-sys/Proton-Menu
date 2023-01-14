@@ -1,0 +1,2 @@
+1673652581 native.call(0x0000000050597ee2)
+1673652581 Web.get("https://raw.githubusercontent.com/jhowkNx/database/main/MUver.txt")
